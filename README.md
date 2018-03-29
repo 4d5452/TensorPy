@@ -7,7 +7,7 @@ Run the following:
 pip3 install pandas
 pip3 install --upgrade tensorflow
 
-https://pandas.pydata.org/pandas-docs/stable/install.html
+https://pandas.pydata.org/pandas-docs/stable/install.html \n
 https://www.tensorflow.org/install/
 
 download 'raw' csv into dir. with dataPrep.R.  
